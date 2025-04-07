@@ -1,0 +1,7 @@
+.text-component {
+  color: var(--black-text); 
+}
+
+.text-component.flex-1 {
+  flex: 1;
+}
